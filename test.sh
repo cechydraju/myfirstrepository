@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-cat emplyoee_details.txt | tail -2
+cat emplyoee_details.txt | tail -1
